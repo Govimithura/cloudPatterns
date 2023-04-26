@@ -1,0 +1,14 @@
+Flask
+gunicorn
+Werkzeug
+numpy
+pandas
+datetime
+pandas
+joblib
+json
+ultralytics==8.0.72
+
+
+
+
